@@ -6,4 +6,6 @@ Created on Sat Jul 22 09:11:27 2017
 @author: apple
 """
 
-new
+new python
+
+1.2
